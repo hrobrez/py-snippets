@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Improved error handling in edge cases
 - Updated dependencies to latest stable versions
+
+## 2026-03-23
+- Updated license year
+- Reviewed open issues, added labels
